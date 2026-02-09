@@ -6,61 +6,80 @@
  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michfferr/)
  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:michaelfsnts@icloud.com)
 
- ------------
+ ---
 
 ![OpenToWork](https://img.shields.io/badge/Open%20To%20Work-228b2?style=for-the-badge)
 
-## 👋 Olá! Eu sou o Michael Ferreira
+## 👋 Michael Ferreira | Desenvolvedor Júnior
 
-Tenho **25 anos**, moro em **Guarulhos – SP, Brasil** 🇧🇷  
-Sou **formado em Ciência da Computação** pela **Universidade Guarulhos (UNG)**.
-
-Meu interesse por tecnologia começou ainda na infância, por volta dos **6 anos de idade**, motivado pelos games 🎮. Desde então, a tecnologia se tornou parte do meu dia a dia. Sou apaixonado por **jogos online**, **música**, **academia** e **programação**.
-
-Nos meus tempos livres, gosto de **tocar e cantar**, jogar e passar tempo com amigos próximos. Atualmente, estou em busca de uma **oportunidade como Desenvolvedor Júnior**, onde eu possa aprender na prática, evoluir constantemente e contribuir com o time.
+![Python](https://img.shields.io/badge/Python-Estudo%20contínuo-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Fundamentos-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Developer-0A66C2?style=for-the-badge)
 
 ---
 
-## 🚀 Tecnologias & Conhecimentos
+📍 **Guarulhos – SP, Brasil**  
+🎓 **Bacharel em Ciência da Computação – Universidade Guarulhos (UNG)**  
+💼 **Objetivo:** Desenvolvedor Júnior / Estágio em Desenvolvimento  
 
-### 🧠 Linguagens de Programação
-- **Python** (em aprendizado contínuo)
-- **Java** (fundamentos e orientação a objetos)
-- **JavaScript** (fundamentos e orientação a objetos)
+---
 
-### 🧰 Backend (nível iniciante)
-- **Python** (lógica de programação, scripts simples)
-- **Java** (POO, estrutura de projetos)
-- **Spring Boot** (conceitos iniciais)
-- **APIs REST** (noções básicas)
+## 💡 Sobre mim
 
-### 🌐 Frontend (básico)
+Sou **Desenvolvedor Júnior** em início de carreira, com formação em **Ciência da Computação** e forte interesse em **desenvolvimento backend**. Meu contato com tecnologia começou cedo, através dos games, o que despertou minha curiosidade por lógica, sistemas e programação.
+
+Atualmente, estou focado em **Python**, reforçando fundamentos de programação, estrutura de dados e desenvolvimento de aplicações simples. Já tive contato com **Java**, **JavaScript** e conceitos iniciais de **APIs REST**.
+
+Busco uma oportunidade onde eu possa **aprender com o time**, aplicar boas práticas e evoluir tecnicamente de forma constante.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Linguagens de Programação
+- **Python** (lógica de programação, scripts, automações simples)
+- **Java** (fundamentos, orientação a objetos)
+- **JavaScript** (básico)
+
+### Backend
+- **APIs REST** (conceitos)
+- **Spring Boot** (introdução)
+- **Arquitetura em camadas** (noções)
+
+### Frontend (básico)
 - **HTML5**
 - **CSS3**
 - **JavaScript**
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - **MySQL** (CRUD, consultas básicas)
 - **PostgreSQL** (conceitos iniciais)
-- **SQL** (básico)
+- **SQL**
 
-### ⚙️ Ferramentas
-- **Git** (versionamento básico)
+### Ferramentas & Versionamento
+- **Git** (fluxo básico)
 - **GitHub**
 - **VS Code**
 - **IntelliJ IDEA**
 
 ---
 
-## 🎯 Objetivo
+## 📌 O que você vai encontrar aqui
 
-Ingressar no mercado como **Desenvolvedor Júnior**, com foco em aprendizado contínuo, boas práticas de desenvolvimento e crescimento profissional.
+- Projetos de **estudo e aprendizado**
+- Exercícios de **lógica de programação**
+- Aplicações simples focadas em **backend**
+- Prática com **versionamento e organização de código**
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **Desenvolvedor Júnior**, contribuindo com o time enquanto desenvolvo minhas habilidades técnicas, comunicação e boas práticas de engenharia de software.
 
 ---
 
 ## 📫 Contato
 
-Obrigado pela visita!  
-Caso queira falar comigo, minhas **redes sociais estão disponíveis no cabeçalho do perfil**.
-
-🚀
+📎 Minhas redes sociais estão disponíveis no **cabeçalho do perfil**.  
+Obrigado pela visita! 🚀
