@@ -10,14 +10,57 @@
 
 ![OpenToWork](https://img.shields.io/badge/Open%20To%20Work-228b2?style=for-the-badge)
 
-Olá, meu nome é Michael Ferreira
+## 👋 Olá! Eu sou o Michael Ferreira
 
-Tenho 25 anos, moro em Guarulhos-SP, Brasil.
-Sou formado em Ciência da Computação pela Universidade Guarulhos - UNG
-Comecei meu interesse por tecnologia aos meus 06 anos de idade por conta dos games, sou um amante de jogos online, gosto de música, academia e tecnologia. Nos meus tempos livres além de jogar gosto de tocar e cantar e estar com meus amigos próximos. Estou procurando me realocar no mecardo de tecnologia como Desenvolvedor, atualmente estou estudando Python, mas já passei por aventuras como o Java e Javascript rs. Fico feliz com a visita e caso queira entrar em contato comigo, minhas redes sociais estão no cabeçalho. Valeu!
+Tenho **25 anos**, moro em **Guarulhos – SP, Brasil** 🇧🇷  
+Sou **formado em Ciência da Computação** pela **Universidade Guarulhos (UNG)**.
 
+Meu interesse por tecnologia começou ainda na infância, por volta dos **6 anos de idade**, motivado pelos games 🎮. Desde então, a tecnologia se tornou parte do meu dia a dia. Sou apaixonado por **jogos online**, **música**, **academia** e **programação**.
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,java,nodejs,python,spring&perline=3)](https://skillicons.dev)
+Nos meus tempos livres, gosto de **tocar e cantar**, jogar e passar tempo com amigos próximos. Atualmente, estou em busca de uma **oportunidade como Desenvolvedor Júnior**, onde eu possa aprender na prática, evoluir constantemente e contribuir com o time.
 
+---
 
+## 🚀 Tecnologias & Conhecimentos
 
+### 🧠 Linguagens de Programação
+- **Python** (em aprendizado contínuo)
+- **Java** (fundamentos e orientação a objetos)
+- **JavaScript** (fundamentos e orientação a objetos)
+
+### 🧰 Backend (nível iniciante)
+- **Python** (lógica de programação, scripts simples)
+- **Java** (POO, estrutura de projetos)
+- **Spring Boot** (conceitos iniciais)
+- **APIs REST** (noções básicas)
+
+### 🌐 Frontend (básico)
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+### 🗄️ Banco de Dados
+- **MySQL** (CRUD, consultas básicas)
+- **PostgreSQL** (conceitos iniciais)
+- **SQL** (básico)
+
+### ⚙️ Ferramentas
+- **Git** (versionamento básico)
+- **GitHub**
+- **VS Code**
+- **IntelliJ IDEA**
+
+---
+
+## 🎯 Objetivo
+
+Ingressar no mercado como **Desenvolvedor Júnior**, com foco em aprendizado contínuo, boas práticas de desenvolvimento e crescimento profissional.
+
+---
+
+## 📫 Contato
+
+Obrigado pela visita!  
+Caso queira falar comigo, minhas **redes sociais estão disponíveis no cabeçalho do perfil**.
+
+🚀
