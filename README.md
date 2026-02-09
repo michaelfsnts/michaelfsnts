@@ -20,15 +20,7 @@ Sou formado em Ciência da Computação pela Universidade Guarulhos - UNG _(I ha
 Gosto de música, jogos online, academia, tecnologia e moda. _(I like music, online games, gym, technology and fashion.)_
 
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=git,html5,java,node,spring&perline=3)](https://skillicons.dev)
-
-
-### Estou aprendendo mais sobre _(I'm learning more about)_
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=git,html,java,nodejs,python,spring&perline=3)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=michaelfsnts&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
