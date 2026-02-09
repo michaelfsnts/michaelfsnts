@@ -20,7 +20,7 @@
 
 📍 **Guarulhos – SP, Brasil**  
 🎓 **Bacharel em Ciência da Computação – Universidade Guarulhos (UNG)**  
-💼 **Objetivo:** Desenvolvedor Júnior / Estágio em Desenvolvimento  
+💼 **Objetivo:** Desenvolvedor Júnior  
 
 ---
 
